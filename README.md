@@ -17,7 +17,7 @@ After fabrication → it is commonly called DUT.
 
 ~ In short: DUT is the main design we are testing.
 
-** What is a Testbench?**
+**What is a Testbench?**
 
 A testbench is a separate verification code written to test the DUT.
 
@@ -51,7 +51,7 @@ Easy maintenance
 
 ~ In short: Interface is a common connection point between testbench and DUT.
 
-** What is a Driver?**
+**What is a Driver?**
 
 The driver sends data to the DUT.
 
